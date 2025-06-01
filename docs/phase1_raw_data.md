@@ -113,7 +113,7 @@ adsb_download.log
 * Includes robust retry and logging mechanisms to ensure completeness and traceability
 * Provides clean, organized input for downstream data processing and modeling
 
-### ✅ Daily Record Count for Each Hub Airport
+#### Daily Record Count for Each Hub Airport
 
 ![XCR_record_count](https://github.com/user-attachments/assets/dfc29580-6cf7-46f5-b45b-3e5ff7be6b5a)
 ![WAW_record_count](https://github.com/user-attachments/assets/1d0d6b9b-65bb-4e92-a520-1a2d9a2932b9)
