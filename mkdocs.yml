@@ -1,0 +1,7 @@
+site_name: ADS-B Ground Operation Experiment
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Phase 1 Raw Data: phase1_raw_data.md
